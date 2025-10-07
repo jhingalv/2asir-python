@@ -1,0 +1,5 @@
+x9fecha = input("Introduce tu fecha de nacimiento (dd/mm/aaaa): ")
+x9dia, x9mes, x9ano = x9fecha.split("/")
+print("Día:", x9dia)
+print("Mes:", x9mes)
+print("Año:", x9ano)
