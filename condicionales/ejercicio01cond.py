@@ -1,4 +1,4 @@
-x1edad = input ("Por favor, introduce tu edad: ")
+x1edad = int(input("Por favor, introduce tu edad: "))
 
 if x1edad < 18:
     print ("Eres menor de edad.")
